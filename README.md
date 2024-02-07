@@ -1,2 +1,1 @@
-# sam
-This is my code
+# propose-day
